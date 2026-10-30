@@ -43,7 +43,7 @@ Two or three sentences on what problem PROJECT solves and why it exists.
 
 ## 🎯 Features
 
-|                    |                                    |
+| Feature            | What it does                       |
 | ------------------ | ---------------------------------- |
 | 🧩 **Feature one** | What it does, in one short clause. |
 | ⚡ **Feature two** | What it does, in one short clause. |

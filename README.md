@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/OWNER/PROJECT/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/OWNER/PROJECT?display_name=tag&sort=semver"></a>
-  <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/github/license/OWNER/PROJECT"></a>
+  <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/license-MIT-97ca00"></a>
 </p>
 
 <p align="center">
@@ -29,8 +29,6 @@
 </p>
 
 ---
-
-## ✨ PROJECT
 
 Two or three sentences on what problem PROJECT solves and why it exists.
 
